@@ -9,7 +9,7 @@ Version 1.13+ > https://www.spigotmc.org/resources/just-permissions.105152/
 
 Commands 1.5V+
 ◄JustPermissions► Command help:
-► /justperm create <group> - Create group
+► /justperm create <group> - Create group \n
 ► /justperm delete <group> - Delete group
 ► /justperm user <add|set|remove> <group> <namePlayer> - Edit player
 ► /justperm user <addUser|removeUser> <namePlayer> - Edit list player
