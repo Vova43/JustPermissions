@@ -4,8 +4,7 @@
 
 Just Permissions for your server, this plugin is easy to set up, Vault support is expected in the future
 
-Source Code in plugin.jar
-Version 1.13+ > https://www.spigotmc.org/resources/just-permissions.105152/
+SpigotMC > https://www.spigotmc.org/resources/just-permissions.105152/
 
 Commands 1.5V+
 ◄JustPermissions► Command help:
